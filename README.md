@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Sanaebadi97/Sanaebadi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on 
@@ -12,4 +10,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
