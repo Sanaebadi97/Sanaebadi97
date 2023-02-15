@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Android Native 
+- 🌱 I’m currently learning Java Backend Development 
 - 👯 I'm looking to collaborate on International Companies
 - 💬 Ask me about programming
 - 📫 How to reach me: [sanaebadi.info](https://sanaebadi.info/)
